@@ -15,8 +15,9 @@ Part 1: Create the Earthquake Visualization
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 #Part 1: Create the Earthquake Visualization
-2-BasicMap
-https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg
+2-BasicMap![2-BasicMap]
+(https://user-images.githubusercontent.com/12514249/219131211-630ad5f1-3efc-44f6-8416-787a9f32ba4a.jpg)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 Get your dataset. To do so, follow these steps:
